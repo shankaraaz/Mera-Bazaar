@@ -1,0 +1,6 @@
+{
+  "name": "MeraBazaar",
+  "description": "Real-time Indian share market tracking, stock screener, MoneyControl analytics, AI stock analyst, and portfolio manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
